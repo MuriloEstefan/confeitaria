@@ -26,4 +26,4 @@ function criarItemCardapio(titulo, descricao, foto) {
 }
 
 criarItemCardapio('Bolo de Chocolate', 'o padrao amado por todos',
-     'https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2020/05/bolo_chocolate_leite.jpg"')
+     'https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2020/05/bolo_chocolate_leite.jpg');
